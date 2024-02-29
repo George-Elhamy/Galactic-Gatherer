@@ -16,8 +16,7 @@ Galactic Gatherer is an exciting C++ game where players take on the role of an a
 ## How to Play
 
 1. Clone the repository: `git clone https://github.com/George-Elhamy/Galactic-Gatherer.git`
-2. Navigate to the project folder: `cd your-repo`
-3. Compile and run the game: `./cosmic_collector`
+2. Compile and run the game: `./OpenGL2DTemplate.sln`
 
 ## Controls
 
