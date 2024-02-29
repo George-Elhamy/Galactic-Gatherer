@@ -15,12 +15,30 @@ Galactic Gatherer is an exciting C++ game where players take on the role of an a
 
 ## How to Play
 
-1. Clone the repository: `git clone https://github.com/George-Elhamy/Galactic-Gatherer.git`
-2. Compile and run the game: `./OpenGL2DTemplate.sln`
+1. **Clone the repository:** `git clone https://github.com/George-Elhamy/Galactic-Gatherer.git`
+
+2. **Build and Run the Game:**
+
+**Using Visual Studio (Windows):**
+- Open `OpenGL2DTemplate.sln` using Visual Studio.
+- Build the project within the Visual Studio IDE.
+- Run the compiled executable directly from the IDE.
+
+**Using MSBuild (Command Line):**
+- Open a Developer Command Prompt for Visual Studio or a command prompt with MSBuild in the path.
+- Navigate to the directory containing your solution file.
+- Execute the following command:
+  ```
+  msbuild OpenGL2DTemplate.sln
+  ```
+- After a successful build, find the compiled executable and run it manually.
+
 
 ## Controls
 
 - Use arrow keys to navigate the astronaut.
+- You have to collide with the collectables and powerups to collect them.
+- You have to collide with Earth to finish the game.
 
 ## Scoring
 
