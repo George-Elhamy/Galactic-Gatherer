@@ -21,6 +21,7 @@ Galactic Gatherer is an exciting C++ game where players take on the role of an a
 
 **Using Visual Studio (Windows):**
 - Open `OpenGL2DTemplate.sln` using Visual Studio.
+- Find and open the P06-52-21218.cpp file in the Visual Studio IDE.
 - Build the project within the Visual Studio IDE.
 - Run the compiled executable directly from the IDE.
 
